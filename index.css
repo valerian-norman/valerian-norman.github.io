@@ -1,0 +1,24 @@
+body {
+  background-color: bisque;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+}
+
+h1 {
+  font-size: 50pt;
+  margin-bottom: 100pt;
+}
+
+p {
+  font-size: 20pt;
+}
+
+.red-text {
+  color: red;
+}
+
+#loser {
+  font-size: 200pt;
+  color: gold;
+  margin-top: -100pt;
+}
