@@ -1,24 +1,48 @@
 body {
-  background-color: bisque;
-  text-align: center;
-  font-family: 'Staatliches', cursive;
+  background-image: url('https://cdn.architextures.org/textures/20/06/granite-stack-5ed7e8b109990-1200.jpg');
+}
+
+.div-text {
+  background-color: rgba(240, 248, 255, 0.5);
+  margin: 1em 72.5em 5em 72.5em;
+  border-radius: 1em;
+  width: auto;
 }
 
 h1 {
-  font-size: 50pt;
-  margin-bottom: 100pt;
+  margin-bottom: -50px;
+  font-weight: -99999;
+  font-size: 50px;
+  font-family: 'Staatliches', cursive;
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: 'Staatliches', cursive;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Staatliches', cursive;
+  margin: 1em 1em 0em 1em;
+  font-size: 25px;
 }
 
 p {
-  font-size: 20pt;
-}
-
-.red-text {
-  color: red;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  padding: 1em 1em 1em 1em;
 }
 
 #name {
-  font-size: 200pt;
-  color: gold;
-  margin-top: -100pt;
+  font-size: 75px;
+  color: rgb(255, 196, 0);
+  font-weight: 10;
+}
+
+.div-general {
+  background-color: rgba(240, 248, 255, 0.5);
+  margin: 5em 40em 5em 40em;
+  border-radius: 1em;
 }
