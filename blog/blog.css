@@ -10,7 +10,7 @@ body {
 
 .div-text {
   background-color: rgba(240, 248, 255, 0.5);
-  margin: 1em 50em 5em 50em;
+  margin: 1em 20em 1em 20em;
   border-radius: 1em;
 }
 
@@ -38,7 +38,7 @@ p {
   padding: 1em 1em 1em 1em;
 }
 
-#name {
+#name {d
   font-size: 75px;
   color: rgb(255, 196, 0);
   font-weight: 10;
@@ -47,6 +47,8 @@ p {
 .div-general {
   background-color: rgba(240, 248, 255, 0.5);
   border-radius: 1em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 ul {
