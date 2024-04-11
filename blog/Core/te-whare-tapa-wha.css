@@ -57,9 +57,8 @@ ul {
   font-size: 25px;
 }
 
-table {
+.table {
   text-align: center;
   font-size: 20px;
-  color: rgb(0, 0, 0);
-  padding: 1em 1em 1em 1em;
+  padding-top: 1000px;
 }
